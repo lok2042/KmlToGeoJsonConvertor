@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmlToGeoJsonConvertor", "KmlToGeoJsonConvertor.csproj", "{F11DE442-F0E2-C8A4-7EA5-0BCC38A4F4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11DE442-F0E2-C8A4-7EA5-0BCC38A4F4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11DE442-F0E2-C8A4-7EA5-0BCC38A4F4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11DE442-F0E2-C8A4-7EA5-0BCC38A4F4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11DE442-F0E2-C8A4-7EA5-0BCC38A4F4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A22F3D25-EA9D-44C6-A109-6086EC3276B7}
+	EndGlobalSection
+EndGlobal
